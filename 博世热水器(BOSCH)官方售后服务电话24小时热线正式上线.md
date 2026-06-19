@@ -1,0 +1,2004 @@
+博世热水器(BOSCH)服务区域：北京市,东城区,西城区,朝阳区,丰台区,石景山区,海淀区,门头沟区,房山区,通州区,顺义区,昌平区,大兴区,怀柔区,平谷区,密云区,延庆区
+天津市,和平区,河东区,河西区,南开区,河北区,红桥区,东丽区,西青区,津南区,北辰区,武清区,宝坻区,滨海新区,宁河区,静海区,蓟州区
+上海市,黄浦区,徐汇区,长宁区,静安区,普陀区,虹口区,杨浦区,闵行区,宝山区,嘉定区,浦东新区,金山区,松江区,青浦区,奉贤区,崇明区
+重庆市,万州区,涪陵区,渝中区,大渡口区,江北区,沙坪坝区,九龙坡区,南岸区,北碚区,綦江区,大足区,渝北区,巴南区,黔江区,长寿区,江津区,合川区,永川区,南川区,璧山区,铜梁区,潼南区,荣昌区,开州区,梁平区,武隆区
+石家庄市,长安区,桥西区,新华区,井陉矿区,裕华区,藁城区,鹿泉区,栾城区
+唐山市,路南区,路北区,古冶区,开平区,丰南区,丰润区,曹妃甸区
+秦皇岛市,海港区,山海关区,北戴河区,抚宁区
+张家口市,桥东区,桥西区,宣化区,下花园区
+廊坊市,安次区,广阳区
+太原市,小店区,迎泽区,杏花岭区,尖草坪区,万柏林区,晋源区
+大同市,平城区,云冈区,新荣区,云州区
+长治市,潞州区,上党区,屯留区,潞城区
+晋城市,城区
+沈阳市,和平区,沈河区,大东区,皇姑区,铁西区,苏家屯区,浑南区,于洪区,辽中区
+大连市,中山区,西岗区,沙河口区,甘井子区,旅顺口区,金州区,普兰店区
+长春市,南关区,宽城区,朝阳区,二道区,绿园区,双阳区,九台区
+吉林市,昌邑区,龙潭区,船营区,丰满区
+哈尔滨市,道里区,南岗区,道外区,平房区,松北区,香坊区,呼兰区,阿城区,双城区
+齐齐哈尔市,龙沙区,建华区,铁锋区,昂昂溪区,富拉尔基区,碾子山区,梅里斯达斡尔族区
+鸡西市,鸡冠区,恒山区,滴道区,梨树区,城子河区,麻山区
+大庆市,萨尔图区,龙凤区,让胡路区,红岗区,大同区
+南京市,玄武区,秦淮区,建邺区,鼓楼区,浦口区,栖霞区,雨花台区,江宁区,六合区,溧水区,高淳区
+无锡市,锡山区,惠山区,滨湖区,梁溪区,新吴区
+徐州市,鼓楼区,云龙区,贾汪区,泉山区,铜山区
+常州市,天宁区,钟楼区,新北区,武进区,金坛区
+苏州市,姑苏区,虎丘区,吴中区,相城区,吴江区
+连云港市,连云区,海州区
+淮安市,清江浦区,淮阴区,洪泽区
+盐城市,亭湖区,盐都区
+扬州市,广陵区,邗江区,江都区
+镇江市,京口区,润州区,丹徒区
+泰州市,海陵区,高港区,姜堰区
+宿迁市,宿城区,宿豫区
+杭州市,上城区,拱墅区,西湖区,滨江区,萧山区,余杭区,临平区,钱塘区,富阳区,临安区
+宁波市,海曙区,江北区,北仑区,镇海区,鄞州区,奉化区
+温州市,鹿城区,龙湾区,瓯海区,洞头区
+嘉兴市,南湖区,秀洲区
+湖州市,吴兴区,南浔区
+绍兴市,越城区,柯桥区,上虞区
+金华市,婺城区,金东区
+衢州市,柯城区,衢江区
+舟山市,定海区,普陀区
+台州市,椒江区,黄岩区,路桥区
+丽水市,莲都区
+合肥市,瑶海区,庐阳区,蜀山区,包河区
+芜湖市,镜湖区,弋江区,鸠江区,湾沚区,繁昌区
+蚌埠市,龙子湖区,蚌山区,禹会区,淮上区
+淮南市,大通区,田家庵区,谢家集区,八公山区,潘集区
+马鞍山市,花山区,雨山区,博望区
+淮北市,杜集区,相山区,烈山区
+铜陵市,铜官区,义安区,郊区
+安庆市,迎江区,大观区,宜秀区
+黄山市,屯溪区,黄山区,徽州区
+滁州市,琅琊区,南谯区
+阜阳市,颍州区,颍东区,颍泉区
+宿州市,埇桥区
+六安市,金安区,裕安区
+亳州市,谯城区
+宣城市,宣州区
+福州市,鼓楼区,台江区,仓山区,马尾区,晋安区,长乐区
+厦门市,思明区,海沧区,湖里区,集美区,同安区,翔安区
+莆田市,城厢区,涵江区,荔城区,秀屿区
+泉州市,鲤城区,丰泽区,洛江区,泉港区
+漳州市,芗城区,龙文区,龙海区,长泰区
+龙岩市,新罗区,永定区
+南昌市,东湖区,西湖区,青云谱区,青山湖区,新建区,红谷滩区
+景德镇市,珠山区,昌江区
+萍乡市,安源区,湘东区
+九江市,浔阳区,濂溪区,柴桑区
+新余市,渝水区
+鹰潭市,月湖区,余江区
+赣州市,章贡区,南康区,赣县区
+吉安市,吉州区,青原区
+宜春市,袁州区
+抚州市,临川区
+上饶市,信州区,广丰区,广信区
+济南市,历下区,市中区,槐荫区,天桥区,历城区,长清区,章丘区,济阳区,莱芜区,钢城区
+青岛市,市南区,市北区,黄岛区,崂山区,李沧区,城阳区,即墨区
+淄博市,淄川区,张店区,博山区,临淄区,周村区
+东营市,东营区,河口区,垦利区
+烟台市,芝罘区,福山区,牟平区,莱山区
+日照市,东港区,岚山区
+郑州市,中原区,二七区,管城回族区,金水区,惠济区,上街区
+开封市,龙亭区,顺河回族区,鼓楼区,禹王台区,祥符区
+洛阳市,老城区,西工区,瀍河回族区,涧西区,洛龙区,孟津区,偃师区
+新乡市,红旗区,卫滨区,凤泉区,牧野区
+南阳市,宛城区,卧龙区
+商丘市,梁园区,睢阳区
+周口市,川汇区,淮阳区
+武汉市,江岸区,江汉区,硚口区,汉阳区,武昌区,青山区,洪山区,东西湖区,汉南区,蔡甸区,江夏区,黄陂区,新洲区
+黄石市,黄石港区,西塞山区,下陆区,铁山区
+宜昌市,西陵区,伍家岗区,点军区,猇亭区,夷陵区
+鄂州市,鄂城区,梁子湖区,华容区
+荆门市,东宝区,掇刀区
+孝感市,孝南区
+荆州市,沙市区,荆州区
+黄冈市,黄州区
+咸宁市,咸安区
+随州市,曾都区
+长沙市,芙蓉区,天心区,岳麓区,开福区,雨花区,望城区
+株洲市,荷塘区,芦淞区,石峰区,天元区
+湘潭市,雨湖区,岳塘区
+邵阳市,双清区,大祥区,北塔区
+岳阳市,岳阳楼区,云溪区,君山区
+常德市,武陵区,鼎城区
+益阳市,资阳区,赫山区
+郴州市,北湖区,苏仙区
+怀化市,鹤城区
+娄底市,娄星区
+广州市,荔湾区,越秀区,海珠区,天河区,白云区,黄埔区,番禺区,花都区,南沙区,从化区,增城区
+深圳市,罗湖区,福田区,南山区,宝安区,龙岗区,盐田区,龙华区,坪山区,光明区
+珠海市,香洲区,斗门区,金湾区
+佛山市,禅城区,南海区,顺德区,三水区,高明区
+肇庆市,端州区,鼎湖区,高要区
+江门市,蓬江区,江海区,新会区
+茂名市,茂南区,电白区
+惠州市,惠城区,惠阳区
+清远市,清城区,清新区
+东莞市
+中山市
+海口市,秀英区,龙华区,琼山区,美兰区
+三亚市,海棠区,吉阳区,天涯区,崖州区
+三沙市,西沙区,南沙区
+成都市,锦江区,青羊区,金牛区,武侯区,成华区,龙泉驿区,青白江区,新都区,温江区,双流区,郫都区,新津区
+自贡市,自流井区,贡井区,大安区,沿滩区
+德阳市,旌阳区,罗江区
+绵阳市,涪城区,游仙区,安州区
+广元市,利州区,昭化区,朝天区
+乐山市,市中区,沙湾区,五通桥区,金口河区
+南充市,顺庆区,高坪区,嘉陵区
+眉山市,东坡区,彭山区
+宜宾市,翠屏区,南溪区,叙州区
+资阳市,雁江区
+贵阳市,南明区,云岩区,花溪区,乌当区,白云区,观山湖区
+昆明市,五华区,盘龙区,官渡区,西山区,东川区,呈贡区,晋宁区
+西安市,新城区,碑林区,莲湖区,灞桥区,未央区,雁塔区,阎良区,临潼区,长安区,高陵区,鄠邑区
+宝鸡市,渭滨区,金台区,陈仓区
+咸阳市,秦都区,渭城区
+渭南市,临渭区,华州区
+榆林市,榆阳区,横山区
+兰州市,城关区,七里河区,西固区,安宁区,红古区
+呼和浩特市,新城区,回民区,玉泉区,赛罕区
+包头市,东河区,昆都仑区,青山区,石拐区,九原区
+南宁市,兴宁区,青秀区,江南区,西乡塘区,良庆区,邕宁区
+柳州市,城中区,鱼峰区,柳南区,柳北区,柳江区
+桂林市,秀峰区,叠彩区,象山区,七星区,雁山区,临桂区
+梧州市,万秀区,长洲区,龙圩区
+北海市,海城区,银海区,铁山港区
+防城港市,港口区,防城区
+钦州市,钦南区,钦北区
+贵港市,港北区,港南区,覃塘区
+玉林市,玉州区,福绵区
+百色市,右江区,田阳区
+银川市,兴庆区,西夏区,金凤区
+乌鲁木齐市,天山区,沙依巴克区,新市区,水磨沟区,头屯河区,达坂城区,米东区
+克拉玛依市,独山子区,克拉玛依区,白碱滩区,乌尔禾区
+
+江苏南京电信 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/6c8b3656cc334fef6b077875060ca21d1667049a
+
+
+江苏电信 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/efb7e27ab3643e26d49947ccc9bb708729dc4b50
+
+
+江苏 IPTV 直播源： https://github.com/patricofeu/suvpxq/commit/7f8ae9ea6828695d28993971cca0e2c31171bd83
+
+
+安徽广电 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/8bf7e5fe8fa0864367d8036f169a280320248e69
+
+
+海南电信组播 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/bef04176fd84c59871ec2cc23de4b0ed293dcf00
+
+
+海南联通组播 IPTV 直播源下载地址：https://github.com/edadox/lkmxbf/commit/3b8ea8628c40233b47ba56af89f6049aaad839a9
+
+
+湖北 IPTV 直播源： https://github.com/patricofeu/suvpxq/commit/37a1d1e6a752f590dc33905ce3b07dda9c894704
+
+
+湖南电信组播直播源下载地址： https://github.com/patricofeu/suvpxq/commit/5ff79bbe012d8e97b308dc8c7bf35f49fce6bb16
+
+
+湖南电信 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/1cc4f578b0e13301f7cf495017267aafd840bb12
+
+
+湖南联通组播 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/3b8ea8628c40233b47ba56af89f6049aaad839a9
+
+
+湖南联通 IPTV 直播源下载地址：  https://github.com/edadox/lkmxbf/commit/bef04176fd84c59871ec2cc23de4b0ed293dcf00
+
+
+湖南移动 IPTV 直播源下载地址：  https://github.com/edadox/lkmxbf/commit/4e590f3b0b9d4a756559f03a16b23306c88c7975
+
+
+湖南 IPTV 直播源：  https://github.com/patricofeu/suvpxq/commit/0106050912e74df53ccd322f653926882b9ba842
+
+
+重庆移动组播直播源下载地址：  https://github.com/patricofeu/suvpxq/commit/37a1d1e6a752f590dc33905ce3b07dda9c894704
+
+
+重庆联通组播直播源下载地址：  https://github.com/patricofeu/suvpxq/commit/995aeaf06e9a96cd178ae2a848595ba73702455b
+
+
+重庆联通直播源下载地址：  https://github.com/edadox/lkmxbf/commit/2f42fe564289888bb80c32800dc3e0d5136d2e29
+
+
+重庆电信组播直播源下载地址：  https://github.com/edadox/lkmxbf/commit/411fd858f2c2c3701812f29aea06afe7a8407ef5
+
+
+重庆电信直播源下载地址：  https://github.com/edadox/lkmxbf/commit/731dff9996018cbaadf564baa7e96baf58dc9f90
+
+
+重庆 IPTV 直播源：  https://github.com/edadox/lkmxbf/commit/ace69636aaba788f2d85abf2ec04425e3121d1ae
+
+
+四川移动组播 IPTV 直播源下载地址：  https://github.com/patricofeu/suvpxq/commit/995aeaf06e9a96cd178ae2a848595ba73702455b
+
+
+四川电信 IPTV 直播源下载地址：  https://github.com/edadox/lkmxbf/commit/da61abb0fffde8ef690e2d8719fddc946eff68f2
+
+
+四川电信 IPTV 组播直播源下载地址：  https://github.com/patricofeu/suvpxq/commit/995aeaf06e9a96cd178ae2a848595ba73702455b
+
+
+四川广电 IPTV 直播源下载地址：  https://github.com/edadox/lkmxbf/commit/2f42fe564289888bb80c32800dc3e0d5136d2e29
+
+
+四川联通组播 IPTV 直播源下载地址：  https://github.com/edadox/lkmxbf/commit/411fd858f2c2c3701812f29aea06afe7a8407ef5
+
+
+四川联通 IPTV 直播源下载地址：  https://github.com/edadox/lkmxbf/commit/da61abb0fffde8ef690e2d8719fddc946eff68f2
+
+
+四川 IPTV 直播源：  https://github.com/edadox/lkmxbf/commit/6c8b3656cc334fef6b077875060ca21d1667049a
+
+
+云南电信组播 IPTV 直播源下载地址：  https://github.com/patricofeu/suvpxq/commit/261040bfb8101635d9d36d9e74a2765d45fbc191
+
+
+云南移动 IPTV 直播源下载地址：  https://github.com/patricofeu/suvpxq/commit/85d9a0e40a382b6c1a9918b20b96d3501a202726
+
+
+云南 IPTV 直播源：  https://github.com/patricofeu/suvpxq/commit/995aeaf06e9a96cd178ae2a848595ba73702455b
+
+
+贵州电信组播 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/2f42fe564289888bb80c32800dc3e0d5136d2e29
+
+
+贵州移动 IPTV 直播源： https://github.com/edadox/lkmxbf/commit/411fd858f2c2c3701812f29aea06afe7a8407ef5
+
+
+贵州联通组播 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/da61abb0fffde8ef690e2d8719fddc946eff68f2
+
+
+贵州联通 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/6c8b3656cc334fef6b077875060ca21d1667049a
+
+
+贵州 IPTV 直播源： https://github.com/patricofeu/suvpxq/commit/261040bfb8101635d9d36d9e74a2765d45fbc191
+
+
+福建联通组播 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/85d9a0e40a382b6c1a9918b20b96d3501a202726
+
+
+福建联通 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/995aeaf06e9a96cd178ae2a848595ba73702455b
+
+
+福建移动 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/2f42fe564289888bb80c32800dc3e0d5136d2e29
+
+
+福建电信组播 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/411fd858f2c2c3701812f29aea06afe7a8407ef5
+
+
+福建电信 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/da61abb0fffde8ef690e2d8719fddc946eff68f2
+
+
+福建 IPTV 直播源： https://github.com/edadox/lkmxbf/commit/6c8b3656cc334fef6b077875060ca21d1667049a
+
+
+安徽移动 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/261040bfb8101635d9d36d9e74a2765d45fbc191
+
+
+安徽电信 IPTV 组播直播源下载地址： https://github.com/patricofeu/suvpxq/commit/85d9a0e40a382b6c1a9918b20b96d3501a202726
+
+
+安徽电信 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/995aeaf06e9a96cd178ae2a848595ba73702455b
+
+
+安徽联通 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/2f42fe564289888bb80c32800dc3e0d5136d2e29
+
+
+安徽 IPTV 直播源： https://github.com/edadox/lkmxbf/commit/411fd858f2c2c3701812f29aea06afe7a8407ef5
+
+
+陕西地方台直播源下载地址： https://github.com/edadox/lkmxbf/commit/da61abb0fffde8ef690e2d8719fddc946eff68f2
+
+
+陕西电信组播 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/6c8b3656cc334fef6b077875060ca21d1667049a
+
+
+陕西电信 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/261040bfb8101635d9d36d9e74a2765d45fbc191
+
+
+陕西移动组播 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/85d9a0e40a382b6c1a9918b20b96d3501a202726
+
+
+陕西移动 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/995aeaf06e9a96cd178ae2a848595ba73702455b
+
+
+陕西 IPTV 直播源：https://github.com/edadox/lkmxbf/commit/2f42fe564289888bb80c32800dc3e0d5136d2e29
+
+
+甘肃电信组播 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/411fd858f2c2c3701812f29aea06afe7a8407ef5
+
+
+甘肃移动 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/da61abb0fffde8ef690e2d8719fddc946eff68f2
+
+
+甘肃 IPTV 直播源： https://github.com/patricofeu/suvpxq/commit/88ba5007fc1480de1e80334cdb046bfec2fecff4
+
+
+山西移动组播 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/83074aed5e9aec7bf118cef1800385180f0e15c0
+
+
+山西联通组播 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/8079b4b82a30e321f72fb6f487ca6253cae7b3a0
+
+
+山西联通 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/9f5baea48e60187e0419c35aeb5b76cc3a932a37
+
+
+山西 IPTV 直播源： https://github.com/edadox/lkmxbf/commit/feea0528194d223349fc0dbeddf0cd204827ca12
+
+
+天津电信组播直播源下载地址： https://github.com/edadox/lkmxbf/commit/efb7e27ab3643e26d49947ccc9bb708729dc4b50
+
+
+天津联通组播直播源下载地址： https://github.com/edadox/lkmxbf/commit/75f98723eb1d65af501c1eacf4474951fde913bc
+
+
+天津 IPTV 直播源： https://github.com/patricofeu/suvpxq/commit/88ba5007fc1480de1e80334cdb046bfec2fecff4
+
+
+上海移动直播源下载地址： https://github.com/edadox/lkmxbf/commit/83074aed5e9aec7bf118cef1800385180f0e15c0
+
+
+上海联通组播直播源下载地址： https://github.com/edadox/lkmxbf/commit/8079b4b82a30e321f72fb6f487ca6253cae7b3a0
+
+
+上海联通直播源下载地址： https://github.com/patricofeu/suvpxq/commit/9f5baea48e60187e0419c35aeb5b76cc3a932a37
+
+
+上海电信组播直播源下载地址： https://github.com/edadox/lkmxbf/commit/feea0528194d223349fc0dbeddf0cd204827ca12
+
+
+上海电信直播源下载地址： https://github.com/edadox/lkmxbf/commit/efb7e27ab3643e26d49947ccc9bb708729dc4b50
+
+
+上海 IPTV 直播源： https://github.com/edadox/lkmxbf/commit/75f98723eb1d65af501c1eacf4474951fde913bc
+
+
+北京移动 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/88ba5007fc1480de1e80334cdb046bfec2fecff4
+
+
+北京移动组播直播源下载地址： https://github.com/edadox/lkmxbf/commit/83074aed5e9aec7bf118cef1800385180f0e15c0
+
+
+北京电信组播 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/8079b4b82a30e321f72fb6f487ca6253cae7b3a0
+
+
+北京联通组播 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/9f5baea48e60187e0419c35aeb5b76cc3a932a37
+
+
+北京联通 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/feea0528194d223349fc0dbeddf0cd204827ca12
+
+
+北京 IPTV 直播源： https://github.com/edadox/lkmxbf/commit/efb7e27ab3643e26d49947ccc9bb708729dc4b50
+
+
+部分地区的移动可全网通用： https://github.com/edadox/lkmxbf/commit/75f98723eb1d65af501c1eacf4474951fde913bc
+
+
+各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商： https://github.com/patricofeu/suvpxq/commit/88ba5007fc1480de1e80334cdb046bfec2fecff4
+
+广播电台下载地址： https://github.com/edadox/lkmxbf/commit/83074aed5e9aec7bf118cef1800385180f0e15c0
+
+
+国内景区直播源下载地址： https://github.com/edadox/lkmxbf/commit/8079b4b82a30e321f72fb6f487ca6253cae7b3a0
+
+
+轮播华数黑莓下载地址： https://github.com/patricofeu/suvpxq/commit/9f5baea48e60187e0419c35aeb5b76cc3a932a37
+
+
+台湾香港澳门电视台直播源下载地址： https://github.com/edadox/lkmxbf/commit/feea0528194d223349fc0dbeddf0cd204827ca12
+
+
+韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等： https://github.com/edadox/lkmxbf/commit/efb7e27ab3643e26d49947ccc9bb708729dc4b50
+
+
+国外电视台直播源下载地址： https://github.com/edadox/lkmxbf/commit/75f98723eb1d65af501c1eacf4474951fde913bc
+
+
+卫视地方台安徽农大下载地址： https://github.com/patricofeu/suvpxq/commit/88ba5007fc1480de1e80334cdb046bfec2fecff4
+
+
+卫视北京凤凰探索星空卫视北京邮电大学校园网下载地址： https://github.com/edadox/lkmxbf/commit/83074aed5e9aec7bf118cef1800385180f0e15c0
+
+
+卫视上海源下载地址： https://github.com/edadox/lkmxbf/commit/8079b4b82a30e321f72fb6f487ca6253cae7b3a0
+
+
+卫视重庆广电 下载地址： https://github.com/patricofeu/suvpxq/commit/9f5baea48e60187e0419c35aeb5b76cc3a932a37
+
+
+卫视百视 TV 下载地址： https://github.com/edadox/lkmxbf/commit/feea0528194d223349fc0dbeddf0cd204827ca12
+
+
+移动 IPv6 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/85d9a0e40a382b6c1a9918b20b96d3501a202726
+
+
+国内电视台 IPv6 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/995aeaf06e9a96cd178ae2a848595ba73702455b
+
+
+各大卫视、上千个地方台： https://github.com/edadox/lkmxbf/commit/2f42fe564289888bb80c32800dc3e0d5136d2e29
+
+
+国内电视台直播源下载地址：https://github.com/edadox/lkmxbf/commit/411fd858f2c2c3701812f29aea06afe7a8407ef5
+
+
+全国可用直播源： https://github.com/edadox/lkmxbf/commit/da61abb0fffde8ef690e2d8719fddc946eff68f2
+
+
+包括完整内容所有已知频道： https://github.com/edadox/lkmxbf/commit/6c8b3656cc334fef6b077875060ca21d1667049a
+
+
+除成人内容以外的已知频道： https://github.com/edadox/lkmxbf/commit/83074aed5e9aec7bf118cef1800385180f0e15c0
+
+
+收集来自世界各地公开可用的 IPTV：https://github.com/edadox/lkmxbf/commit/8079b4b82a30e321f72fb6f487ca6253cae7b3a0
+
+
+稳定地址： https://github.com/patricofeu/suvpxq/commit/9f5baea48e60187e0419c35aeb5b76cc3a932a37
+
+
+2026-06-16 更新 CCTV 等世界杯相关 HD 播放源： https://github.com/edadox/lkmxbf/commit/feea0528194d223349fc0dbeddf0cd204827ca12
+
+
+2026-06-16 更新 IPTV 工具： https://github.com/edadox/lkmxbf/commit/efb7e27ab3643e26d49947ccc9bb708729dc4b50
+
+
+2026-06-16 更新世界各地 IPTV 频道： https://github.com/edadox/lkmxbf/commit/75f98723eb1d65af501c1eacf4474951fde913bc
+
+
+2026-06-16 更新全国可用直播源： https://github.com/patricofeu/suvpxq/commit/88ba5007fc1480de1e80334cdb046bfec2fecff4
+
+
+新增各地运营商的 IPTV 地址： https://github.com/edadox/lkmxbf/commit/83074aed5e9aec7bf118cef1800385180f0e15c0
+
+
+插件推荐： https://github.com/edadox/lkmxbf/commit/8079b4b82a30e321f72fb6f487ca6253cae7b3a0
+
+
+视频教程增加： https://github.com/patricofeu/suvpxq/commit/9f5baea48e60187e0419c35aeb5b76cc3a932a37
+
+
+咪咕源失效： https://github.com/edadox/lkmxbf/commit/feea0528194d223349fc0dbeddf0cd204827ca12
+
+
+2026-06-16 更新各地运营商 IPTV 直播源： https://github.com/edadox/lkmxbf/commit/efb7e27ab3643e26d49947ccc9bb708729dc4b50
+
+
+2026-06-16 更新台湾香港海外直播源： https://github.com/edadox/lkmxbf/commit/75f98723eb1d65af501c1eacf4474951fde913bc
+
+
+新增辽宁广电直播源： https://github.com/patricofeu/suvpxq/commit/88ba5007fc1480de1e80334cdb046bfec2fecff4
+
+
+新增江西广电直播源： https://github.com/edadox/lkmxbf/commit/83074aed5e9aec7bf118cef1800385180f0e15c0
+
+
+新增湖北广电直播源： https://github.com/edadox/lkmxbf/commit/8079b4b82a30e321f72fb6f487ca6253cae7b3a0
+
+
+新增中国广电 cctv + 卫视直播源： https://github.com/patricofeu/suvpxq/commit/9f5baea48e60187e0419c35aeb5b76cc3a932a37
+
+
+新增辽宁电信 IPTV 直播源： https://github.com/edadox/lkmxbf/commit/feea0528194d223349fc0dbeddf0cd204827ca12
+
+
+2026-06-16 更新台湾香港海外直播源： https://github.com/edadox/lkmxbf/commit/efb7e27ab3643e26d49947ccc9bb708729dc4b50
+
+
+新增辽宁移动直播源： https://github.com/edadox/lkmxbf/commit/75f98723eb1d65af501c1eacf4474951fde913bc
+
+
+新增浙江杭州华数 IPTV 直播源： https://github.com/patricofeu/suvpxq/commit/88ba5007fc1480de1e80334cdb046bfec2fecff4
+
+
+新增广东联通 IPTV 直播源： https://github.com/edadox/lkmxbf/commit/83074aed5e9aec7bf118cef1800385180f0e15c0
+
+
+新增四川广电 IPTV 直播源： https://github.com/edadox/lkmxbf/commit/8079b4b82a30e321f72fb6f487ca6253cae7b3a0
+
+
+新增云南电信 IPTV 直播源： https://github.com/patricofeu/suvpxq/commit/9f5baea48e60187e0419c35aeb5b76cc3a932a37
+
+
+2026-06-16 更新国内电视台直播源： https://github.com/edadox/lkmxbf/commit/feea0528194d223349fc0dbeddf0cd204827ca12
+
+
+新增福建电信 IPTV 直播源： https://github.com/edadox/lkmxbf/commit/efb7e27ab3643e26d49947ccc9bb708729dc4b50
+
+
+新增天途云 CCTV + 卫视： https://github.com/edadox/lkmxbf/commit/75f98723eb1d65af501c1eacf4474951fde913bc
+
+
+新增腾讯云 CCTV + 卫视： https://github.com/patricofeu/suvpxq/commit/88ba5007fc1480de1e80334cdb046bfec2fecff4
+
+
+新增 CCTV 付费频道直播源： https://github.com/edadox/lkmxbf/commit/83074aed5e9aec7bf118cef1800385180f0e15c0
+
+
+新增广播电台： https://github.com/edadox/lkmxbf/commit/8079b4b82a30e321f72fb6f487ca6253cae7b3a0
+
+
+2026-06-16 更新 轮播爱奇艺 CIBN 华数 NewTV 虎牙战旗： https://github.com/patricofeu/suvpxq/commit/9f5baea48e60187e0419c35aeb5b76cc3a932a37
+
+
+2026-06-16 更新 台湾香港海外直播源： https://github.com/edadox/lkmxbf/commit/feea0528194d223349fc0dbeddf0cd204827ca12
+
+
+2026-06-16 更新 国内电视台直播源： https://github.com/edadox/lkmxbf/commit/efb7e27ab3643e26d49947ccc9bb708729dc4b50
+
+
+国家直播源： https://github.com/edadox/lkmxbf/commit/75f98723eb1d65af501c1eacf4474951fde913bc
+
+
+直播源： https://github.com/patricofeu/suvpxq/commit/88ba5007fc1480de1e80334cdb046bfec2fecff4
+
+
+影视剧场： https://github.com/edadox/lkmxbf/commit/83074aed5e9aec7bf118cef1800385180f0e15c0
+
+
+台湾香港澳门： https://github.com/edadox/lkmxbf/commit/8079b4b82a30e321f72fb6f487ca6253cae7b3a0
+
+
+国外电视台： https://github.com/patricofeu/suvpxq/commit/9f5baea48e60187e0419c35aeb5b76cc3a932a37
+
+
+国内电视台： https://github.com/edadox/lkmxbf/commit/feea0528194d223349fc0dbeddf0cd204827ca12
+
+
+更早期 2026-06-16 更新： https://github.com/edadox/lkmxbf/commit/efb7e27ab3643e26d49947ccc9bb708729dc4b50
+
+
+各地运营商 IPTV 直播源： https://github.com/edadox/lkmxbf/commit/0b66c401418aa05f28413cd8e41a539d8796ef75
+
+
+全国可用直播源： https://github.com/patricofeu/suvpxq/commit/529d15671e08537be53c0ab739f74f4217cd1d2d
+
+
+2026-06-16 更新： https://github.com/patricofeu/suvpxq/commit/1707c65d670bb3f85508f903df356f04317aa512
+
+
+赞助者： https://github.com/patricofeu/suvpxq/commit/67649a61bf4edb52cf44f8f509cf3e69945f98cc
+
+
+文章： https://github.com/patricofeu/suvpxq/commit/d192ec5e2c7b6ec7acf170223dc2283bcb307c00
+
+
+视频教程： https://github.com/patricofeu/suvpxq/commit/7f8ae9ea6828695d28993971cca0e2c31171bd83
+
+
+插件： https://github.com/patricofeu/suvpxq/commit/cb522544a9c281172b8ff344d1821569c5957f01
+
+
+工具： https://github.com/edadox/lkmxbf/commit/0b66c401418aa05f28413cd8e41a539d8796ef75
+
+
+URL： https://github.com/patricofeu/suvpxq/commit/529d15671e08537be53c0ab739f74f4217cd1d2d
+
+
+目录： https://github.com/patricofeu/suvpxq/commit/0106050912e74df53ccd322f653926882b9ba842
+
+
+喀麦隆直播电视频道： https://github.com/edadox/lkmxbf/commit/8c4e73e3b1470eea4e16b5f6b55f912b96a1dcc4
+
+
+阿富汗直播电视频道： https://github.com/patricofeu/suvpxq/commit/cb522544a9c281172b8ff344d1821569c5957f01
+
+
+海地的直播频道： https://github.com/patricofeu/suvpxq/commit/1707c65d670bb3f85508f903df356f04317aa512
+
+
+高棉直播和泰国电视，电影和电视剧： https://github.com/patricofeu/suvpxq/commit/cb522544a9c281172b8ff344d1821569c5957f01
+
+
+厄瓜多尔直播频道： https://github.com/edadox/lkmxbf/commit/0b66c401418aa05f28413cd8e41a539d8796ef75
+
+
+玻利维亚直播频道： https://github.com/patricofeu/suvpxq/commit/529d15671e08537be53c0ab739f74f4217cd1d2d
+
+
+萨尔瓦多直播频道： https://github.com/patricofeu/suvpxq/commit/1707c65d670bb3f85508f903df356f04317aa512
+
+
+危地马拉直播频道： https://github.com/patricofeu/suvpxq/commit/67649a61bf4edb52cf44f8f509cf3e69945f98cc
+
+
+洪都拉斯直播频道： https://github.com/patricofeu/suvpxq/commit/d192ec5e2c7b6ec7acf170223dc2283bcb307c00
+
+
+多米尼加共和国直播频道： https://github.com/patricofeu/suvpxq/commit/7f8ae9ea6828695d28993971cca0e2c31171bd83
+
+
+哥斯达黎加直播频道： https://github.com/patricofeu/suvpxq/commit/cb522544a9c281172b8ff344d1821569c5957f01
+
+
+来自世界各地的个电视频道和个摄像机： https://github.com/edadox/lkmxbf/commit/0b66c401418aa05f28413cd8e41a539d8796ef75
+
+
+免费数据库： https://github.com/patricofeu/suvpxq/commit/529d15671e08537be53c0ab739f74f4217cd1d2d
+
+
+公共链接到互联网上传输的个线性电视频道和个线性无线电频道： https://github.com/patricofeu/suvpxq/commit/1707c65d670bb3f85508f903df356f04317aa512
+
+
+超过个国家地区的个高清频道和： https://github.com/patricofeu/suvpxq/commit/67649a61bf4edb52cf44f8f509cf3e69945f98cc
+
+
+超过个直播电视频道影视节目： https://github.com/patricofeu/suvpxq/commit/d192ec5e2c7b6ec7acf170223dc2283bcb307c00
+
+
+提供商列表： https://github.com/patricofeu/suvpxq/commit/7f8ae9ea6828695d28993971cca0e2c31171bd83
+
+
+提供者： https://github.com/patricofeu/suvpxq/commit/cb522544a9c281172b8ff344d1821569c5957f01
+
+
+客户端服务器媒体播放器： https://github.com/edadox/lkmxbf/commit/0b66c401418aa05f28413cd8e41a539d8796ef75
+
+
+支持播放列表文件： https://github.com/patricofeu/suvpxq/commit/529d15671e08537be53c0ab739f74f4217cd1d2d
+
+
+启用投屏的应用程序，可让您将收藏的视频从移动设备流式传输到电视： https://github.com/patricofeu/suvpxq/commit/1707c65d670bb3f85508f903df356f04317aa512
+
+
+完整的用户定义的高级 IPTV 解决方案，用于实时和非实时电视流： https://github.com/patricofeu/suvpxq/commit/67649a61bf4edb52cf44f8f509cf3e69945f98cc
+
+
+点 即可： https://github.com/patricofeu/suvpxq/commit/d192ec5e2c7b6ec7acf170223dc2283bcb307c00
+
+
+第三行不用管： https://github.com/patricofeu/suvpxq/commit/7f8ae9ea6828695d28993971cca0e2c31171bd83
+
+
+第二行输入上面给你的地址： https://github.com/patricofeu/suvpxq/commit/cb522544a9c281172b8ff344d1821569c5957f01
+
+
+第一行随意输入一个名字： https://github.com/edadox/lkmxbf/commit/0b66c401418aa05f28413cd8e41a539d8796ef75
+
+
+选择 远程播放列表文件： https://github.com/patricofeu/suvpxq/commit/529d15671e08537be53c0ab739f74f4217cd1d2d
+
+
+打开 点击 号： https://github.com/patricofeu/suvpxq/commit/1707c65d670bb3f85508f903df356f04317aa512
+
+
+食用指南： https://github.com/patricofeu/suvpxq/commit/67649a61bf4edb52cf44f8f509cf3e69945f98cc
+
+
+适用于 macOS 的现代媒体播放器： https://github.com/patricofeu/suvpxq/commit/529d15671e08537be53c0ab739f74f4217cd1d2d
+
+
+直播电视和广播客户端插件： https://github.com/patricofeu/suvpxq/commit/1707c65d670bb3f85508f903df356f04317aa512
+
+
+具有库支持的免费跨平台媒体播放器： https://github.com/patricofeu/suvpxq/commit/67649a61bf4edb52cf44f8f509cf3e69945f98cc
+
+
+免费开放源代码的便携式跨平台媒体播放器： https://github.com/patricofeu/suvpxq/commit/d192ec5e2c7b6ec7acf170223dc2283bcb307c00
+
+
+支持 IPTV 流的应用程序： https://github.com/patricofeu/suvpxq/commit/7f8ae9ea6828695d28993971cca0e2c31171bd83
+
+
+工具： https://github.com/patricofeu/suvpxq/commit/cb522544a9c281172b8ff344d1821569c5957f01
+
+
+轮播华数求索爱奇艺 2026-06-16 更新： https://github.com/edadox/lkmxbf/commit/0b66c401418aa05f28413cd8e41a539d8796ef75
+
+
+台湾、香港、澳门、韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美等国： https://github.com/patricofeu/suvpxq/commit/529d15671e08537be53c0ab739f74f4217cd1d2d
+
+
+台湾香港海外直播源 2026-06-16 更新： https://github.com/patricofeu/suvpxq/commit/1707c65d670bb3f85508f903df356f04317aa512
+
+
+各大卫视、上千个地方台： https://github.com/patricofeu/suvpxq/commit/67649a61bf4edb52cf44f8f509cf3e69945f98cc
+
+
+国内电视台直播源 2026-06-16 更新： https://github.com/patricofeu/suvpxq/commit/d192ec5e2c7b6ec7acf170223dc2283bcb307c00
+
+
+卫视腾讯云： https://github.com/patricofeu/suvpxq/commit/7f8ae9ea6828695d28993971cca0e2c31171bd83
+
+
+卫视平顶山学院教育网： https://github.com/patricofeu/suvpxq/commit/cb522544a9c281172b8ff344d1821569c5957f01
+
+
+卫视天途云： https://github.com/edadox/lkmxbf/commit/0b66c401418aa05f28413cd8e41a539d8796ef75
+
+
+卫视地方台安徽农大： https://github.com/patricofeu/suvpxq/commit/529d15671e08537be53c0ab739f74f4217cd1d2d
+
+
+卫视北京凤凰探索星空卫视北京邮电大学校园网： https://github.com/patricofeu/suvpxq/commit/1707c65d670bb3f85508f903df356f04317aa512
+
+
+央视卫视广西移动直播源： https://github.com/patricofeu/suvpxq/commit/67649a61bf4edb52cf44f8f509cf3e69945f98cc
+
+
+付费频道直播源： https://github.com/patricofeu/suvpxq/commit/d192ec5e2c7b6ec7acf170223dc2283bcb307c00
+
+
+国家直播源多个全部有效： https://github.com/patricofeu/suvpxq/commit/7f8ae9ea6828695d28993971cca0e2c31171bd83
+
+
+直播源全部有效： https://github.com/patricofeu/suvpxq/commit/cb522544a9c281172b8ff344d1821569c5957f01
+
+
+全部有效： https://github.com/edadox/lkmxbf/commit/0b66c401418aa05f28413cd8e41a539d8796ef75
+
+
+直播源全部有效老电脑别用： https://github.com/patricofeu/suvpxq/commit/529d15671e08537be53c0ab739f74f4217cd1d2d
+
+
+影视剧场全部流畅： https://github.com/patricofeu/suvpxq/commit/1707c65d670bb3f85508f903df356f04317aa512
+
+
+全部可用： https://github.com/patricofeu/suvpxq/commit/67649a61bf4edb52cf44f8f509cf3e69945f98cc
+
+
+我的播放源： https://github.com/patricofeu/suvpxq/commit/d192ec5e2c7b6ec7acf170223dc2283bcb307c00
+
+
+其他直播源 不确定有效性： https://github.com/patricofeu/suvpxq/commit/7f8ae9ea6828695d28993971cca0e2c31171bd83
+
+
+新疆电信组播 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/cb522544a9c281172b8ff344d1821569c5957f01
+
+
+新疆 IPTV 直播源： https://github.com/edadox/lkmxbf/commit/0b66c401418aa05f28413cd8e41a539d8796ef75
+
+
+内蒙古联通 udp 组播下载地址： https://github.com/patricofeu/suvpxq/commit/529d15671e08537be53c0ab739f74f4217cd1d2d
+
+
+内蒙古联通 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/1707c65d670bb3f85508f903df356f04317aa512
+
+
+内蒙古电信组播 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/67649a61bf4edb52cf44f8f509cf3e69945f98cc
+
+
+内蒙古电信 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/d192ec5e2c7b6ec7acf170223dc2283bcb307c00
+
+
+内蒙古 IPTV 直播源： https://github.com/patricofeu/suvpxq/commit/7f8ae9ea6828695d28993971cca0e2c31171bd83
+
+
+黑龙江联通组播 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/cb522544a9c281172b8ff344d1821569c5957f01
+
+
+黑龙江移动 3IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/0b66c401418aa05f28413cd8e41a539d8796ef75
+
+
+黑龙江移动 2IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/529d15671e08537be53c0ab739f74f4217cd1d2d
+
+
+黑龙江移动 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/1707c65d670bb3f85508f903df356f04317aa512
+
+
+黑龙江 IPTV 直播源： https://github.com/patricofeu/suvpxq/commit/67649a61bf4edb52cf44f8f509cf3e69945f98cc
+
+
+吉林电信组播 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/d192ec5e2c7b6ec7acf170223dc2283bcb307c00
+
+
+吉林 IPTV 直播源： https://github.com/edadox/lkmxbf/commit/37e6562c93391ddd0ff57e69ffc873026e821567
+
+
+辽宁移动直播源下载地址： https://github.com/edadox/lkmxbf/commit/443683c053152a61c847e4370c99a30545564968
+
+
+辽宁电信 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/769db126941c4ddb0ad5bed8aba9c524376ca7bc
+
+
+辽宁大连联通 IPTV 组播直播源下载地址： https://github.com/patricofeu/suvpxq/commit/ea1a669478362a5de0cd76fce63514623e6ee234
+
+
+辽宁联通组播 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/1f4403adc8adfa5a01bb121e201cf4c682acff8f
+
+
+辽宁联通 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/a6ab3b4d834d97ab9596eb7fb3d6e194357ac2d6
+
+
+辽宁 IPTV 直播源： https://github.com/edadox/lkmxbf/commit/b910ac26f83f252411bf0e9914c0842707bf0b8f
+
+
+浙江电信组播 IPTV 组播直播源下载地址： https://github.com/edadox/lkmxbf/commit/37e6562c93391ddd0ff57e69ffc873026e821567
+
+
+浙江电信 IPTV 组播直播源下载地址： https://github.com/edadox/lkmxbf/commit/443683c053152a61c847e4370c99a30545564968
+
+
+浙江联通 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/769db126941c4ddb0ad5bed8aba9c524376ca7bc
+
+
+浙江移动 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/ea1a669478362a5de0cd76fce63514623e6ee234
+
+
+浙江 IPTV 直播源： https://github.com/edadox/lkmxbf/commit/1f4403adc8adfa5a01bb121e201cf4c682acff8f
+
+
+江西联通 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/a6ab3b4d834d97ab9596eb7fb3d6e194357ac2d6
+
+
+江西电信组播 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/b910ac26f83f252411bf0e9914c0842707bf0b8f
+
+
+江西电信 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/37e6562c93391ddd0ff57e69ffc873026e821567
+
+
+江西移动 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/443683c053152a61c847e4370c99a30545564968
+
+
+江西 IPTV 直播源： https://github.com/edadox/lkmxbf/commit/769db126941c4ddb0ad5bed8aba9c524376ca7bc
+
+
+江苏移动 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/ea1a669478362a5de0cd76fce63514623e6ee234
+
+
+江苏电信组播 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/1f4403adc8adfa5a01bb121e201cf4c682acff8f
+
+
+江苏泰州电信 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/a6ab3b4d834d97ab9596eb7fb3d6e194357ac2d6
+
+
+江苏南京电信 2IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/b910ac26f83f252411bf0e9914c0842707bf0b8f
+
+
+江苏南京电信 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/37e6562c93391ddd0ff57e69ffc873026e821567
+
+
+江苏电信 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/443683c053152a61c847e4370c99a30545564968
+
+
+江苏 IPTV 直播源： https://github.com/edadox/lkmxbf/commit/769db126941c4ddb0ad5bed8aba9c524376ca7bc
+
+
+安徽广电 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/ea1a669478362a5de0cd76fce63514623e6ee234
+
+
+海南电信组播 IPTV 直播源下载地址： https://github.com/edadox/lkmxbf/commit/1f4403adc8adfa5a01bb121e201cf4c682acff8f
+
+
+海南联通组播 IPTV 直播源下载地址： https://github.com/patricofeu/suvpxq/commit/a6ab3b4d834d97ab9596eb7fb3d6e194357ac2d6
+
+
+提供所有优质的英国，爱尔兰，德国，土耳其，阿拉伯语，美国和加拿大频道
+超过个俄罗斯频道和天的节目存档
+起初这里仅收录美加墨世界杯直播地址，配合赛程比分对阵供调用
+后来疫情来了，这里又增加了世界各国公共频道，及国内部分区域 IPTV，希望带给隔离中的些许心理依托
+然后转眼三年了，还这样子，且没有转好的迹象 相信这段浓墨重彩的一笔世人铭记
+眼下 美加墨世界杯
+再次祝愿所有人百毒不侵 希望动态清零早日过去，请大家务必坚信明天是崭新的
+这个项目的存在要感谢所有贡献者
+请给我们一个 点赞支持我们 谢谢
+并感谢所有支持者2026年06月16日03时09分35秒
+来源：https://github.com/edadox/lkmxbf/commit/b910ac26f83f252411bf0e9914c0842707bf0b8f
+
+
+来源：https://github.com/edadox/lkmxbf/commit/37e6562c93391ddd0ff57e69ffc873026e821567
+
+
+来源：https://github.com/edadox/lkmxbf/commit/443683c053152a61c847e4370c99a30545564968
+
+
+来源： wregfsdWESDDSFSsdf.cn
+2026年06月16日，03时09分35秒
+# AI Builders Digest 今日热点快报
+2026年06月16日03时09分35秒(UTC+8)
+
+## 一、国内时政
+小米小爱大模型升级，端侧推理能力增强，智能家居全场景打通。
+
+容大感光光刻胶迭代，UV 光刻胶市占率提升，低端市场替代完成。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/769db126941c4ddb0ad5bed8aba9c524376ca7bc
+
+|
+
+恒实科技虚拟电厂运营，工商业用户聚合，峰谷套利收益增长。
+
+人民币汇率小幅波动，5 月 20 日在岸收于 7.18 附近，跨境资金流动平稳。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/ea1a669478362a5de0cd76fce63514623e6ee234
+
+|
+
+金砖国家 AI 合作扩容，技术研发、产业应用、人才交流协同。
+
+金融科技出海加速，AI 支付、风控、信贷，东南亚、拉美市场拓展。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/1f4403adc8adfa5a01bb121e201cf4c682acff8f
+
+|
+
+联通智网 5G 模组芯片适配，工业互联网、车联网渗透率提升。
+
+智能垃圾分类设备投放，社区垃圾分类推行更加顺畅。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/a6ab3b4d834d97ab9596eb7fb3d6e194357ac2d6
+
+|
+
+光伏组件出口量同比增 20%，欧洲、中东、拉美为主要市场。
+
+人民币汇率小幅波动，5 月 20 日在岸收于 7.18 附近，跨境资金流动平稳。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/b910ac26f83f252411bf0e9914c0842707bf0b8f
+
+|
+
+恒实科技虚拟电厂运营，工商业用户聚合，峰谷套利收益增长。
+
+轻量化 AI 模型适配老年机，老年群体轻松使用智能语音功能。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/37e6562c93391ddd0ff57e69ffc873026e821567
+
+|
+
+紫光展锐 V210 芯片发布，手机端侧 AI 能力增强，性价比突出。
+
+金山云 AI + 游戏云协同，算力租赁、云游戏，营收改善。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/443683c053152a61c847e4370c99a30545564968
+
+|
+
+上海目标 2025 年末 10 万台人形机器人进工厂，智能制造提速。
+
+同城生鲜配送行业内卷放缓，行业逐步回归良性盈利发展模式。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/769db126941c4ddb0ad5bed8aba9c524376ca7bc
+
+|
+
+人造太阳进展加速，中国环流器二号 M 装置等离子体温度创新高。
+
+OpenAI 推送 GPT-5.5 全量版，幻觉率降 52.5%、推理提速 3 倍，安全能力升级。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/ea1a669478362a5de0cd76fce63514623e6ee234
+
+|
+
+固德威户用逆变器全球第一，欧洲市场份额提升，储能配套增长。
+
+地平线征程 6 芯片发布，自动驾驶感知能力提升，成本下降 20%。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/2d74074059394c052bf10bb1da3caaf8f91f7ba3
+
+|
+
+基金持仓 AI 分析，重仓股、行业配置、风格漂移，透明度提升。
+
+航运运价指数企稳回升，外贸海运订单环比持续增加。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/5664ce4d4ea8f1424c63b7d46aceb62c2768ee85
+
+|
+
+浪潮云政企市场发力，AI 服务器 + 云计算，信创领域订单增长。
+
+智能传感技术迭代，AI + 传感器，工业、汽车、医疗、家居感知升级。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/c8321255c3e954ef6b0091443ea333b28d6bdfd2
+
+|
+
+预制食材配送体系完善，连锁餐饮降本增效效果显著。
+
+功率半导体迎来高景气，新能源汽车、光伏、风电驱动，IGBT/MOSFET 放量。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/731dff9996018cbaadf564baa7e96baf58dc9f90
+
+|
+
+氢能储运技术突破，液氢运输成本下降，商业化应用临近。
+
+Meta Quest 3 热销，AI 内容生成、性价比高，消费级 VR 份额第一。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/ea1a669478362a5de0cd76fce63514623e6ee234
+
+|
+
+上海目标 2025 年末 10 万台人形机器人进工厂，智能制造提速。
+
+北方华创沉积设备迭代，国产替代加速，先进制程设备放量。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/88ba5007fc1480de1e80334cdb046bfec2fecff4
+
+|
+
+日本恩格尔系数创新高，物价上涨挤压居民消费空间。
+
+vivo X Fold3 迭代，大屏折叠、AI 办公，商务用户渗透率提升。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/3b8ea8628c40233b47ba56af89f6049aaad839a9
+
+|
+
+外汇市场 AI 交易，汇率预测、套利策略、风险对冲，机构应用增加。
+
+中材科技风电叶片市占率全球第一，大型化、轻量化，适配 16MW 机组。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/ba052c85d3c08ae5356a2bdafd13bbf4c1150b45
+
+|
+
+AI 降噪技术普及，耳机家电等产品静音效果全面优化。
+
+保险车险费率优化，私家车投保成本出现小幅下调。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/5574d6a92fa9982b9e39ea60ab83c3e7b97e9d7b
+
+|
+
+九章四号光量子计算原型机问世，千量子输入，算力创纪录。
+
+量子精密测量落地，地质勘探、资源探测、环境监测应用。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/443683c053152a61c847e4370c99a30545564968
+
+|
+
+矩阵超智发布 MATRIX-3 人形机器人，170cm 身高、灵巧手，标准版 58 万元。
+
+纳斯达克中国金龙指数小幅收涨，万物新生涨超 11%，中概股分化明显。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/37e6562c93391ddd0ff57e69ffc873026e821567
+
+|
+
+超级高铁概念验证，真空管道 + 磁悬浮，未来交通新形态探索。
+
+同城货运运价趋于稳定，城乡物资运输流通更加顺畅。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/1f4403adc8adfa5a01bb121e201cf4c682acff8f
+
+|
+
+米哈游 AI 游戏引擎升级，画质提升、开发降本，新作预期高。
+
+数字人民币试点扩大，线上线下场景融合，支付便捷性提升。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/a6ab3b4d834d97ab9596eb7fb3d6e194357ac2d6
+
+|
+
+央行、财政部等扩围技改贷款，AI 设备、软件服务纳入支持范围。
+
+锦浪科技储能逆变器迭代，效率提升、成本下降，海外放量。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/b910ac26f83f252411bf0e9914c0842707bf0b8f
+
+|
+
+工程机械销量回暖，基建开工带动设备采购需求回升。
+
+银企对接活动密集开展，解决中小企业融资难题。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/37e6562c93391ddd0ff57e69ffc873026e821567
+
+|
+
+新一代无线充电技术落地，远距离隔空充电正式走入民用。
+
+同城货运运价趋于稳定，城乡物资运输流通更加顺畅。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/443683c053152a61c847e4370c99a30545564968
+
+|
+
+期货市场农产品合约活跃，气候因素影响粮油价格走势。
+
+创投母基金加大出资力度，赋能中小科创企业成长发展。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/769db126941c4ddb0ad5bed8aba9c524376ca7bc
+
+|
+
+运达股份陆上风电整机性价比优势突出，三北地区装机放量。
+
+浪潮 AI 服务器市占率提升，国内第一，海外市场拓展加速。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/ea1a669478362a5de0cd76fce63514623e6ee234
+
+|
+
+县域消费市场发力，家电下乡政策拉动下沉市场消费增长。
+
+保险车险费率优化，私家车投保成本出现小幅下调。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/1f4403adc8adfa5a01bb121e201cf4c682acff8f
+
+|
+
+纳斯达克中国金龙指数小幅收涨，万物新生涨超 11%，中概股分化明显。
+
+Gemini 月活用户达 9 亿，日请求量同比增 7 倍，搜索全量接入 AI 大模型。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/a6ab3b4d834d97ab9596eb7fb3d6e194357ac2d6
+
+|
+
+银联国际 AI 跨境支付平台升级，覆盖全球 170 + 国家，交易效率提升。
+
+长江存储启动 A 股上市辅导，存储行业缺货预计延续至 2027 年。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/b910ac26f83f252411bf0e9914c0842707bf0b8f
+
+|
+
+量子精密测量落地，地质勘探、资源探测、环境监测应用。
+
+中国人寿 AI 风控升级，欺诈识别能力增强，赔付率优化。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/37e6562c93391ddd0ff57e69ffc873026e821567
+
+|
+
+拼多多 AI 农产品推荐、直播带货，助农增收，订单增长。
+
+华润微功率半导体产能扩张，IGBT/MOSFET 放量，新能源汽车拉动需求。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/443683c053152a61c847e4370c99a30545564968
+
+|
+
+华泰证券 AI 风控系统商用，风险识别准确率提升，合规成本下降。
+
+元宇宙热度回升，AI+VR/AR 融合，虚拟社交、办公、娱乐落地。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/769db126941c4ddb0ad5bed8aba9c524376ca7bc
+
+|
+
+### 六、金融 / 支付 / 理财（341–400）
+量子传感技术突破，量子雷达、量子导航、量子成像精度提升。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/ea1a669478362a5de0cd76fce63514623e6ee234
+
+|
+
+日本恩格尔系数创新高，物价上涨挤压居民消费空间。
+
+二氧化碳捕集利用技术成熟，AI 优化，碳中和目标推进。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/1f4403adc8adfa5a01bb121e201cf4c682acff8f
+
+|
+
+极地科考 AI 赋能，智能设备、无人船、无人机，数据采集效率提升。
+
+工信部深化 AI + 制造专项，支持智能网联汽车、人形机器人等领域。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/a6ab3b4d834d97ab9596eb7fb3d6e194357ac2d6
+
+|
+
+纳斯达克中国金龙指数小幅收涨，万物新生涨超 11%，中概股分化明显。
+
+虚拟直播间搭建门槛降低，实体商家轻松开启线上直播带货。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/b910ac26f83f252411bf0e9914c0842707bf0b8f
+
+|
+
+商业航天企业密集融资，卫星互联网、火箭发射、太空旅游加速。
+
+网络云游戏体验升级，低配设备流畅运行大型端游大作。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/37e6562c93391ddd0ff57e69ffc873026e821567
+
+|
+
+户用储能海外高景气，欧洲能源危机后渗透率提升，出口增长。
+
+城市智慧停车系统联网，全城空余车位一键快速查找。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/443683c053152a61c847e4370c99a30545564968
+
+|
+
+苹果 A18 Pro 芯片发布，3nm 工艺、算力提升，iPhone 17 系列搭载。
+
+少儿智能早教机器人更新，趣味互动助力孩童启蒙学习。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/769db126941c4ddb0ad5bed8aba9c524376ca7bc
+
+|
+
+## 二、民生社会
+北京君正存储芯片 + CPU 协同，工业控制、车载场景渗透率提升。
+
+家用智能扫地机器人升级，全屋自动清扫避障能力更强。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/ea1a669478362a5de0cd76fce63514623e6ee234
+
+|
+
+湖南广电 AI 主播上岗，人机协同播报，效率提升、成本下降。
+
+国盾量子量子加密芯片量产，金融、政务、通信安全防护强化。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/1f4403adc8adfa5a01bb121e201cf4c682acff8f
+
+|
+
+国家发改委印发法治护航民营经济行动方案，优化民企发展环境。
+
+无人机技术升级，AI + 避障 + 长续航，物流、农业、测绘、巡检普及。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/a6ab3b4d834d97ab9596eb7fb3d6e194357ac2d6
+
+|
+
+云端算力共享平台上线，中小企业低成本租用高端算力。
+
+氢能储运技术突破，液氢运输成本下降，商业化应用临近。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/b910ac26f83f252411bf0e9914c0842707bf0b8f
+
+|
+
+蔚来换电站数量超 2000 座，全球最大换电网络，用户体验优化。
+
+户外露营装备销量持续走高，户外休闲消费市场持续升温。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/37e6562c93391ddd0ff57e69ffc873026e821567
+
+|
+
+中美 AI 官方对话启动，管控风险、避免冲突、务实合作。
+
+黄金 ETF 持仓持续增加，全球央行购金热情不减。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/443683c053152a61c847e4370c99a30545564968
+
+|
+
+县域文旅小镇持续引流，带动周边乡村经济协同发展。
+
+超材料应用拓展，隐身、通信、能源、医疗，颠覆性技术落地。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/769db126941c4ddb0ad5bed8aba9c524376ca7bc
+
+|
+
+互联网企业 ESG 表现提升，绿色算力、低碳运营、社会责任强化。
+
+全球海上风电装机量同比增 30%，中国沿海省份密集开工。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/ea1a669478362a5de0cd76fce63514623e6ee234
+
+|
+
+开源大模型社区活跃，国产模型开源数量同比增 200%。
+
+同城货运运价趋于稳定，城乡物资运输流通更加顺畅。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/1f4403adc8adfa5a01bb121e201cf4c682acff8f
+
+|
+
+中创新航圆柱电池量产，适配新能源汽车、储能，订单增长。
+
+新加坡加码 AI 布局，英伟达将落地本地研发中心，亚太第二处。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/5664ce4d4ea8f1424c63b7d46aceb62c2768ee85
+
+|
+
+百度智能云文心一言赋能，政企 AI 解决方案，订单增长。
+
+氢能储运技术突破，液氢运输成本下降，商业化应用临近。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/c8321255c3e954ef6b0091443ea333b28d6bdfd2
+
+|
+
+天合光能 210mm 组件量产，大尺寸、高功率，地面电站适配。
+
+人民币汇率小幅波动，5 月 20 日在岸收于 7.18 附近，跨境资金流动平稳。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/14495d868d73beaa36d14731753b938e90d3fcd9
+
+|
+
+移动端 AI 修图算法优化，手机修图媲美专业电脑效果。
+
+京东科技 AI 供应链金融，中小微企业融资便捷，坏账率下降。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/2598110a9dddb4e3ba2d8dfffe19f79c7d61ed62
+
+|
+
+台积电 3nm AI 芯片量产，良率提升、成本下降，头部客户订单饱满。
+
+城市智能灭蚊系统布局，公共场所智能消杀蚊虫优化环境。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/1c2799db962b393709b1646ff285672798370c51
+
+|
+
+银河航天低轨宽带卫星量产，互联网覆盖偏远地区，成本下降。
+
+户外用品销量大涨，露营徒步相关消费市场持续火爆。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/c7563d880885c740b52018f8f5226e58399b5025
+
+|
+
+北京中关村 AI 产业集群，大模型、芯片、算力、应用全链条完善。
+
+星河动力谷神星一号火箭批量发射，小型卫星入轨，性价比高。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/2d74074059394c052bf10bb1da3caaf8f91f7ba3
+
+|
+
+养老金融产品上新，适配中老年群体理财需求增多。
+
+开源生态繁荣，AI 大模型、工具链开源，开发者协作创新加速。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/5664ce4d4ea8f1424c63b7d46aceb62c2768ee85
+
+|
+
+水利工程集中开工，水利建设产业链上下游同步受益。
+
+亿纬锂能大圆柱电池商用，4680 规格，特斯拉、宝马订单落地。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/c8321255c3e954ef6b0091443ea333b28d6bdfd2
+
+|
+
+安恒信息 AI 数据安全平台发布，敏感数据识别、脱敏效率提升。
+
+景嘉微 JM9 系列显卡量产，国产 GPU 替代，信创、军工场景放量。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/14495d868d73beaa36d14731753b938e90d3fcd9
+
+|
+
+算力租赁价格下行，AI 企业按需付费，算力成本显著降低。
+
+阿里云发布真武 M890 芯片，对标英伟达 H100，AI 训练性能提升 40%。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/2598110a9dddb4e3ba2d8dfffe19f79c7d61ed62
+
+|
+
+国产大模型加速落地金融、政务，私有化部署市场份额提升。
+
+商汤日日新大模型升级，自动驾驶、智慧城市场景商业化加速。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/1c2799db962b393709b1646ff285672798370c51
+
+|
+
+船载智能导航升级，远洋航行智能避险功能更加完善。
+
+碳交易市场交易活跃，企业节能减排交易需求上涨。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/c7563d880885c740b52018f8f5226e58399b5025
+
+|
+
+韩国拟设公民红利，资金来源为 AI 产业超额利润，回馈国民。
+
+企业员工薪资小幅上调，服务业与制造业用工薪酬同步上涨。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/2d74074059394c052bf10bb1da3caaf8f91f7ba3
+
+|
+
+特种机器人应用拓展，消防、安防、勘探、救灾，危险场景替代人力。
+
+新能源技术多元突破，氢能、核能、地热能、潮汐能，能源结构优化。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/5664ce4d4ea8f1424c63b7d46aceb62c2768ee85
+
+|
+
+特锐德充电桩运营量国内第一，充电量增长，储能 + 充电协同。
+
+三星劳资谈判破裂，或全球减产 DRAM/NAND，存储价格恐再涨。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/c8321255c3e954ef6b0091443ea333b28d6bdfd2
+
+|
+
+智能汽车域控制器量产，中央计算 + 区域控制，电子架构升级。
+
+英伟达 H200 芯片量产，显存翻倍、算力提升，大模型训练成本下降。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/14495d868d73beaa36d14731753b938e90d3fcd9
+
+|
+
+精品民宿连锁化布局提速，标准化运营提升行业整体收益。
+
+明阳智能海上风电整机市占率国内第一，海外市场拓展加速。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/2598110a9dddb4e3ba2d8dfffe19f79c7d61ed62
+
+|
+
+新型电力系统建设提速，特高压、储能、虚拟电厂协同发展。
+
+飞腾 AI 服务器量产，国产芯片 + 大模型适配，信创领域批量部署。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/1c2799db962b393709b1646ff285672798370c51
+
+|
+
+国企混改引入 AI 战略投资者，数字化转型、技术升级、效率提升。
+
+中欧联合微笑卫星发射升空，首次实现地球磁层全景成像。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/c7563d880885c740b52018f8f5226e58399b5025
+
+|
+
+手持智能测温仪优化，多场景快速测温精准度再提升。
+
+产业园招商力度加大，工业厂房租赁市场需求回暖。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/2d74074059394c052bf10bb1da3caaf8f91f7ba3
+
+|
+
+建筑智能放样设备普及，工地施工精准度大幅提升。
+
+东方国信中标中国电信 Token 工厂 15% 份额，华胜天成中标 18%。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/5664ce4d4ea8f1424c63b7d46aceb62c2768ee85
+
+|
+
+网易云音乐 AI 推荐、歌单生成、翻唱，用户活跃度提升。
+
+智能手表 / 手环出货量增长，健康监测、AI 辅助，渗透率提升。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/c8321255c3e954ef6b0091443ea333b28d6bdfd2
+
+|
+
+南大光电高端光刻胶突破，ArF 光刻胶通过验证，进入头部供应链。
+
+开源生态繁荣，AI 大模型、工具链开源，开发者协作创新加速。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/14495d868d73beaa36d14731753b938e90d3fcd9
+
+|
+
+盈方微处理器芯片复产，工业控制、物联网场景重启，扭亏为盈。
+
+国电南瑞充电桩控制系统商用，智能调度、安全防护强化。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/2598110a9dddb4e3ba2d8dfffe19f79c7d61ed62
+
+|
+
+国际铁矿石价格回落，钢铁企业生产成本压力有所缓解。
+
+恒实科技虚拟电厂运营，工商业用户聚合，峰谷套利收益增长。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/1c2799db962b393709b1646ff285672798370c51
+
+|
+
+美联储加息预期升温，10 年期美债收益率升至 4.677%，创 1 年半新高。
+
+特种机器人应用拓展，消防、安防、勘探、救灾，危险场景替代人力。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/c7563d880885c740b52018f8f5226e58399b5025
+
+|
+
+绿电交易规模扩大，新能源发电溢价提升，企业采购意愿增强。
+
+本源量子悟源二号量子计算机升级，算力提升、错误率下降。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/2d74074059394c052bf10bb1da3caaf8f91f7ba3
+
+|
+
+国内区域 AI 产业集群形成，长三角、珠三角、京津冀、成渝领跑。
+
+共享智能充电宝升级，快充大功率输出适配各类数码设备。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/5664ce4d4ea8f1424c63b7d46aceb62c2768ee85
+
+|
+
+生态环境部强化 AI 环保监测，空气质量、水质、污染源智能监控。
+
+### 六、金融 / 支付 / 理财（341–400）
+| 来源：https://github.com/edadox/lkmxbf/commit/c8321255c3e954ef6b0091443ea333b28d6bdfd2
+
+|
+
+汽修智能检测仪器普及，快速排查车辆故障精准定位问题。
+
+长鑫科技 5 月 27 日上会，一季度净利润大增 1688%，国产存储加速上市。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/14495d868d73beaa36d14731753b938e90d3fcd9
+
+|
+
+## 三、科技产业
+企业员工薪资小幅上调，服务业与制造业用工薪酬同步上涨。
+
+同城即时配送规模暴涨，本地生活服务行业快速发展。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/2598110a9dddb4e3ba2d8dfffe19f79c7d61ed62
+
+|
+
+美联储加息预期升温，10 年期美债收益率升至 4.677%，创 1 年半新高。
+
+旷视天元大模型迭代，机器人视觉识别精度达 99.9%，工业落地提速。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/1c2799db962b393709b1646ff285672798370c51
+
+|
+
+融资租赁行业聚焦实体，助力中小企业购置生产设备。
+
+华峰测控模拟测试设备市占率提升，国内第一，海外市场拓展。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/c7563d880885c740b52018f8f5226e58399b5025
+
+|
+
+纳米防水技术广泛应用，数码电子产品防水性能全面提升。
+
+云端算力共享平台上线，中小企业低成本租用高端算力。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/2d74074059394c052bf10bb1da3caaf8f91f7ba3
+
+|
+
+物联网芯片出货量激增，NB-IoT、Cat.1 渗透率提升，智慧城市拉动。
+
+三星 Galaxy Z Fold6 迭代，轻薄化、AI 优化，全球折叠市场主导。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/5664ce4d4ea8f1424c63b7d46aceb62c2768ee85
+
+|
+
+信用卡消费场景扩容，日常小额消费刷卡频次上涨。
+
+国家发改委印发法治护航民营经济行动方案，优化民企发展环境。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/c8321255c3e954ef6b0091443ea333b28d6bdfd2
+
+|
+
+鲲鹏昇腾开发者大会 5 月 22 日北京举办，国产算力生态加速落地。
+
+长鑫科技 5 月 27 日上会，一季度净利润大增 1688%，国产存储加速上市。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/14495d868d73beaa36d14731753b938e90d3fcd9
+
+|
+
+阿里云发布真武 M890 芯片，对标英伟达 H100，AI 训练性能提升 40%。
+
+三星劳资谈判破裂，或全球减产 DRAM/NAND，存储价格恐再涨。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/2598110a9dddb4e3ba2d8dfffe19f79c7d61ed62
+
+|
+
+华为云 ModelArts 升级，AI 开发全流程自动化，训练周期缩短 50%。
+
+数字人民币跨境试点启动，中俄、中阿贸易结算，国际化推进。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/1c2799db962b393709b1646ff285672798370c51
+
+|
+
+大厂高薪抢 AI 人才，算法工程师、大模型训练师薪资翻倍。
+
+恒实科技虚拟电厂运营，工商业用户聚合，峰谷套利收益增长。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/babe1a4757c12aa5184a827b60c97cb65a4a0011
+
+|
+
+瑞萨电子车载 MCU 迭代，高可靠、高安全，汽车电子核心。
+
+德业股份逆变器 + 电池协同，户用光伏 + 储能一体化解决方案热销。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/7d0b76fdf5f81201bc1bcd0286405f7eeaeeab7f
+
+|
+
+智能垃圾分类设备投放，社区垃圾分类推行更加顺畅。
+
+vivo X Fold3 迭代，大屏折叠、AI 办公，商务用户渗透率提升。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/220171127460fd43ca6d93d6881bb686713555bd
+
+|
+
+工业润滑油需求回暖，制造业复工复产拉动耗材消费。
+
+AR/VR 设备出货量回升，消费级产品价格下探，内容生态完善。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/8bf7e5fe8fa0864367d8036f169a280320248e69
+
+|
+
+生猪价格小幅回升，养殖企业亏损收窄，养殖端补栏意愿增强。
+
+存款利率微调下调，居民储蓄意愿小幅减弱流向消费端。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/afcd6f1b561e17c4bc5346ea8e57e5dae459713d
+
+|
+
+北京中关村 AI 产业集群，大模型、芯片、算力、应用全链条完善。
+
+推想医疗 AI 辅助手术系统获批，精准导航、风险预警能力显著提升。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/70977ec6c7551f642cddb912130dd9d0364ef815
+
+|
+
+启明星辰 AI 态势感知系统落地，全网威胁可视化，应急响应提速。
+
+电池片、组件价格回升，N 型组件溢价明显，厂商毛利率修复。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/34f9b8831adf7ee0c8e9461c6ac68925741233c3
+
+|
+
+腾讯混元企业版发布，私有化部署、数据安全可控，金融、政务落地。
+
+南开大学团队攻克钙钛矿电池瓶颈，稳态效率首破 27%。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/babe1a4757c12aa5184a827b60c97cb65a4a0011
+
+|
+
+券商 AI 转型加速，智能投顾、行情分析、风控系统，服务效率提升。
+
+三星 Exynos AI 芯片升级，手机端侧大模型适配，功耗优化。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/7d0b76fdf5f81201bc1bcd0286405f7eeaeeab7f
+
+|
+
+AI 降噪技术普及，耳机家电等产品静音效果全面优化。
+
+麒麟软件适配主流大模型，国产操作系统 + AI 生态闭环形成。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/220171127460fd43ca6d93d6881bb686713555bd
+
+|
+
+星河动力谷神星一号火箭批量发射，小型卫星入轨，性价比高。
+
+推想医疗 AI 辅助手术系统获批，精准导航、风险预警能力显著提升。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/8bf7e5fe8fa0864367d8036f169a280320248e69
+
+|
+
+跨境物流专线加密，外贸货物出海运输时效大幅提升。
+
+国内成品油价格小幅调整，出行及物流行业成本迎来小幅变动。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/afcd6f1b561e17c4bc5346ea8e57e5dae459713d
+
+|
+
+国际白银价格走强，突破 79 美元 / 盎司，工业与避险需求共振。
+
+鼎龙科技 CMP 抛光垫量产，适配先进制程，打破海外垄断。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/cb522544a9c281172b8ff344d1821569c5957f01
+
+|
+
+全球云计算市场回暖，AI 驱动，亚马逊 AWS、微软 Azure、阿里云领跑。
+
+国内开源平台活跃，GitHub、Gitee 国产替代，自主可控生态构建。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/bef04176fd84c59871ec2cc23de4b0ed293dcf00
+
+|
+
+复旦微 FPGA 芯片量产，军工、信创领域批量采购，自主可控强化。
+
+券商财富管理转型提速，基金代销规模同比增 12%。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/1c2799db962b393709b1646ff285672798370c51
+
+|
+
+智慧公交系统全面落地，实时调度大幅缩减候车时长。
+
+全球海上风电装机量同比增 30%，中国沿海省份密集开工。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/5664ce4d4ea8f1424c63b7d46aceb62c2768ee85
+
+|
+
+英特尔 Gaudi3 芯片迭代，AI 训练性能提升，国内数据中心开始适配。
+
+国际白银价格走强，突破 79 美元 / 盎司，工业与避险需求共振。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/1c2799db962b393709b1646ff285672798370c51
+
+|
+
+纸浆价格走低，造纸行业盈利空间得到进一步扩大。
+
+AI 文案改写工具升级，快速优化各类文稿语句提升流畅度。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/c7563d880885c740b52018f8f5226e58399b5025
+
+|
+
+民宿行业入住率走高，短途周边游带动民宿行业盈利。
+
+阿里云峰会 5 月 20 日杭州开幕，发布 AI 算力与企业服务新方案。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/2d74074059394c052bf10bb1da3caaf8f91f7ba3
+
+|
+
+国产折叠平板正式面世，大屏便携兼顾，办公娱乐体验升级。
+
+魅族 22 系列回归，AI 大模型、Flyme 系统优化，小众市场复苏。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/5664ce4d4ea8f1424c63b7d46aceb62c2768ee85
+
+|
+
+县域消费市场发力，家电下乡政策拉动下沉市场消费增长。
+
+快手 AI 直播、短视频工具升级，降低创作门槛，用户活跃度提升。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/c8321255c3e954ef6b0091443ea333b28d6bdfd2
+
+|
+
+文旅部落实门票减免，推动文旅消费复苏，AI 智慧景区建设。
+
+长鑫科技更新科创板招股书，一季度净利增 1688%，拟募资近 300 亿元。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/14495d868d73beaa36d14731753b938e90d3fcd9
+
+|
+
+券商下调多家房企估值，行业出清加速，优质房企迎整合机遇。
+
+新型电力系统建设提速，特高压、储能、虚拟电厂协同发展。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/2598110a9dddb4e3ba2d8dfffe19f79c7d61ed62
+
+|
+
+光纤宽带再度提速，千兆宽带逐步成为城乡家庭标配。
+
+精品民宿连锁化布局提速，标准化运营提升行业整体收益。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/1c2799db962b393709b1646ff285672798370c51
+
+|
+
+英伟达 Orin-X 芯片量产，高阶自动驾驶算力核心，头部车企标配。
+
+龙芯 3A6000 处理器性能提升，国产 CPU 市占率提升，信创采购放量。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/c7563d880885c740b52018f8f5226e58399b5025
+
+|
+
+券商研报 AI 生成普及，数据整合、观点提炼，发布效率提升。
+
+5 月 20 日现货黄金突破 4490 美元 / 盎司，日内小幅上行，避险需求持续升温。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/2d74074059394c052bf10bb1da3caaf8f91f7ba3
+
+|
+
+金融行业 AI 安全防护，对抗攻击、模型窃取、数据泄露，防御强化。
+
+海外光伏需求高景气，欧洲、中东、拉美装机增长，出口拉动。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/5664ce4d4ea8f1424c63b7d46aceb62c2768ee85
+
+|
+
+数据中心绿色化转型，液冷、光伏、储能配套，PUE 值下降。
+
+量子精密测量落地，地质勘探、资源探测、环境监测应用。
+
+| 来源：https://github.com/edadox/lkmxbf/commit/c8321255c3e954ef6b0091443ea333b28d6bdfd2
+
+|
+
+谷歌 TPU 8 发布，定制化 AI 芯片，Gemini 训练与推理效率提升。
+
+东方电气风电整机迭代，海上 + 陆上双驱动，国企订单增长。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/14495d868d73beaa36d14731753b938e90d3fcd9
+
+|
+
+紫光展锐 V210 芯片发布，手机端侧 AI 能力增强，性价比突出。
+
+企业智能客服全面升级，多语种智能接待服务全面上线。
+
+| 来源：https://github.com/patricofeu/suvpxq/commit/2598110a9dddb4e3ba2d8dfffe19f79c7d61ed62
+
+|
+
+英伟达 Orin-X 芯片量产，高阶自动驾驶算力核心，头部车企标配。
+
+普惠金融 AI 赋能，小微企业、三农融资便捷，覆盖面扩大。
+…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
